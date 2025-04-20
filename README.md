@@ -22,6 +22,7 @@ This book is structured to progressively build your understanding of React's men
 
 - [Chapter 1: Declarative vs. Imperative UI](part1-core-mental-models/ch1-declarative-vs-imperative.md)
 - [Chapter 2: UI as a Function of State](part1-core-mental-models/ch2-ui-as-a-function-of-state.md)
+- [Chapter 3: Unidirectional Data Flow](part1-core-mental-models/ch3-unidirectional-data-flow.md)
 
 ## How to Use This Guide
 
