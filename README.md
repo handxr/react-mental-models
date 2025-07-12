@@ -24,6 +24,7 @@ This book is structured to progressively build your understanding of React's men
 - [Chapter 2: UI as a Function of State](part1-core-mental-models/ch2-ui-as-a-function-of-state.md)
 - [Chapter 3: Unidirectional Data Flow](part1-core-mental-models/ch3-unidirectional-data-flow.md)
 - [Chapter 4: Component Composition](part1-core-mental-models/ch4-component-composition.md)
+- [Chapter 5: The Virtual DOM and Reconciliation](part1-core-mental-models/ch5-virtual-dom-reconciliation.md)
 
 ## How to Use This Guide
 
